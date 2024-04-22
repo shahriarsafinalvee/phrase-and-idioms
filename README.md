@@ -36,19 +36,19 @@ As soon as possible
 যত দ্রুত সম্ভব
 ```
 ```
-as the crow flies
+As the crow flies
 সরলরেখায়
 ```
 ```
-at the drop of a hat
+At the drop of a hat
 সাথে সাথে
 ```
 ```
 Ball is in your court
 সিদ্ধান্ত এখন তোমার
 ```
-````
-barking up the one tree
+```
+Barking up the one tree
 ভুল মানুষকে দোষারোপ করো
 ```
 ```
